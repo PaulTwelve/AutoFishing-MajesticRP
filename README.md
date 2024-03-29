@@ -3,7 +3,7 @@
 ## ![Carousel](https://github.com/PaulTwelve/AutoFishBot-MajesticRP/assets/102520398/1b47128f-1854-4313-9d59-29ff9ddfdf14)
 
 <p align="center">
-  <a href="https://github.com/PaulTwelve/AutoFishBot-MajesticRP/raw/main/AutoFishBot.exe"><img src="https://i.ibb.co/JtZNGHt/Download.png"  width="30%"/>
+  <a href="https://github.com/PaulTwelve/AutoFishBot-MajesticRP/raw/main/AutoFishBot.exe"><img src="https://i.ibb.co/XjbvfV5/Download-2.png"  width="30%"/>
 </p>
 
 ------
@@ -111,7 +111,7 @@
 ------
 <h2 align="center">Проблемы с работой бота</h2>
 
-### При не корректной работе
+### При некорректной работе
   
 Перезапустите компьютер.
   
@@ -170,12 +170,18 @@ USDT TRC20|TUbzJR7AepESYYaK85hziSxMoBD8uajbhs
 <h2 align="center">Ссылки</h2>
 
 <p align="center">
-  <a href="https://t.me/AutoFishBotMajesticRP"><img src="https://i.ibb.co/9qHFRfP/Telegram.png" width="32%" /></a>
-  <a href="https://youtu.be/PIBI8zAjR3E"><img src="https://i.ibb.co/nsgpNXQ/YouTube.png" width="32%" /></a>
-  <a href="https://t.me/loopseds"><img src="https://i.ibb.co/CsJgvCV/Designer.png" width="32%" /></a>
+  <a href="https://t.me/AutoFishBotMajesticRP"><img src="https://i.ibb.co/9qHFRfP/Telegram.png" width="24%" /></a>
+  <a href="https://youtu.be/PIBI8zAjR3E"><img src="https://i.ibb.co/nsgpNXQ/YouTube.png" width="24%" /></a>
+  <a href="https://t.me/loopseds"><img src="https://i.ibb.co/CsJgvCV/Designer.png" width="24%" /></a>
+  <a href="https://boosty.to/autofishbot"><img src="https://i.ibb.co/QCkVhXf/Designer-Donate.png" width="24%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://yoomoney.ru/to/4100118341509342"><img src="https://i.ibb.co/ZSbmspJ/Donate.png" width="49%" /></a>
-  <a href="https://steamcommunity.com/tradeoffer/new/?partner=314638225&token=FDz3-YOo"><img src="https://i.ibb.co/cgcPfSB/Steam-Donate.png" width="49%" /></a>
+  
+</p>
+
+<p align="center">
+  <a href="https://yoomoney.ru/to/4100118341509342"><img src="https://i.ibb.co/ZSbmspJ/Donate.png" width="32%" /></a>
+  <a href="https://steamcommunity.com/tradeoffer/new/?partner=314638225&token=FDz3-YOo"><img src="https://i.ibb.co/cgcPfSB/Steam-Donate.png" width="32%" /></a>
+  <a href="https://boosty.to/paultwelve"><img src="https://i.ibb.co/T0gG2hY/EU-Donate.png" width="32%" /></a>
 </p>
