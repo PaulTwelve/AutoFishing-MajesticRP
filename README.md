@@ -167,7 +167,7 @@
 ------
 
 <p align="center">
-  Есои вы не нашли решение своей проблемы, прочтите "<a href="https://telegra.ph/Rukovodstvo-po-resheniyu-osnovnyh-problem-AutoFishBot-05-01">Руководство по решению основных проблем AutoFishBot!</a>"
+  Есои вы не нашли решение своей проблемы, прочтите «<a href="https://telegra.ph/Rukovodstvo-po-resheniyu-osnovnyh-problem-AutoFishBot-05-01">Руководство по решению основных проблем AutoFishBot!</a>»
 </p>
 
 ------
